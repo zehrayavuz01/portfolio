@@ -29,7 +29,7 @@ The DoG initialization method utilizes the Difference of Gaussian function to in
 
 This study aims to explore the relationship between sentiment distilled from sector-related news articles and sectoral dynamics of seven sectors in Turkey using various NLP models. In addition to exploring this interplay, we also aim to analyze the robustness and performance of employed various models. We operated sentiment analysis utilizing six NLP models:BERT, RoBERTa, finBERT, Flair, Loughran-McDonald and TextBlob. Our results suggest that RoBERTa and Flair distilled the most meaningful sentiment scores closely aligning with sectoral dynamics on a monthly basis. Among the observed sectors, agriculture, forestry, and fishing is found to be the most sentiment-sensitive sector.
 
-![Profile Picture](assets/images/sentiment1.png)
+![Profile Picture](assets/sentiment1.png)
 
 ### IoT Cocktail Robot Project
 - Developed a cocktail robot connected to a website, capable of making cocktails with a single click when ordered from the website.
