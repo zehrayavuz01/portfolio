@@ -1,5 +1,5 @@
 # Hello! It's Zehra
-![Profile Picture]([https://your-image-url.com](https://media.licdn.com/dms/image/v2/D4D03AQF_9Q8k3czk8w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1702243564737?e=1743033600&v=beta&t=haqvA1TbHnTVHAb6BNcIyDEKrgtCV_5xal-caeFY8wQ))
+![Profile Picture](assets/images/photo.jpeg)
 #### Technical Skills: Python, SQL, PowerBI
 
 ## Education			        		
@@ -22,14 +22,14 @@ informed decision-making processes
 The DoG initialization method utilizes the Difference of Gaussian function to initialize kernels in a way that mimics the human retinal system. Even when a regular initialization method is applied, some kernels are observed to evolve into a DoG-like shape. Thus, initializing some of the kernels with the DoG function increases accuracy, as concluded in Babaiee, Z., Kiasari, P. M., Rus, D., & Grosu, R. (2024). Unveiling the Unseen: Identifiable Clusters in Trained Depthwise Convolutional Kernels. arXiv preprint arXiv:2401.14469. As a future study, we aimed to achieve further enhancements by tuning two parameters: gamma and the ratio of initialized kernels within a layer. Due to limited computational resources, we operated this framework with the MobileNetV2 architecture, whereas the reference study used ConvNext Tiny, a much more complex model compared to MobileNetV2. Although MobileNetV2 may have been inadequate to increase performance, we had the opportunity to investigate whether this initialization method is generalizable to other models and datasets.
 - Applied human-inspired kernel initialization method utilizing Difference of Gaussan function which extract low-level information such as edges and contrast. 
 - During application, we tuned different combinations of DoG paarmeters to find a hyperparameter resulting in an enhanced performance.
-
-![Bike Study](/Users/zehra/Desktop/dog.png)
+**Data Source**: [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
+![kernel Share](assets/images/share.png)
 
 ### News Sentiment Analysis and Sectoral Dynamics
 
 This study aims to explore the relationship between sentiment distilled from sector-related news articles and sectoral dynamics of seven sectors in Turkey using various NLP models. In addition to exploring this interplay, we also aim to analyze the robustness and performance of employed various models. We operated sentiment analysis utilizing six NLP models:BERT, RoBERTa, finBERT, Flair, Loughran-McDonald and TextBlob. Our results suggest that RoBERTa and Flair distilled the most meaningful sentiment scores closely aligning with sectoral dynamics on a monthly basis. Among the observed sectors, agriculture, forestry, and fishing is found to be the most sentiment-sensitive sector.
 
-![Bike Study](/Users/zehra/Desktop/nlp.jpeg)
+![Profile Picture](assets/images/sentiment1.png)
 
 ### IoT Cocktail Robot Project
 - Developed a cocktail robot connected to a website, capable of making cocktails with a single click when ordered from the website.
