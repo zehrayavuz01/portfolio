@@ -1,5 +1,5 @@
 # Hello! It's Zehra
-
+![Profile Picture]([https://your-image-url.com](https://media.licdn.com/dms/image/v2/D4D03AQF_9Q8k3czk8w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1702243564737?e=1743033600&v=beta&t=haqvA1TbHnTVHAb6BNcIyDEKrgtCV_5xal-caeFY8wQ))
 #### Technical Skills: Python, SQL, PowerBI
 
 ## Education			        		
