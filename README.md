@@ -1,7 +1,9 @@
-# Hello! It's Zehra
-![Profile Picture](assets/photo.jpeg)
-#### Technical Skills: Python, SQL, PowerBI
 
+# Hello! It's Zehra
+
+<img src="assets/photo.jpeg" alt="Profile Picture" style="float: left; margin-right: 20px; border-radius: 50%; width: 150px;">
+
+#### Technical Skills: Python, SQL, PowerBI
 ## Education			        		
 - B.S., Management Information Systems | Boğaziçi University (Expected 2025)
 
