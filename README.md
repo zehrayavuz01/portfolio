@@ -1,5 +1,5 @@
 # Hello! It's Zehra
-![Profile Picture](assets/images/photo.jpeg)
+![Profile Picture](assets/photo.jpeg)
 #### Technical Skills: Python, SQL, PowerBI
 
 ## Education			        		
