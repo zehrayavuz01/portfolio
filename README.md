@@ -12,7 +12,7 @@
 - Collaborated with development team to design and develop efficient automated systems to reduce cost and
 increase operational efficiency
 
-**Product Marketing Intern (_Juky 2023 - December 2023_)**
+**Product Marketing Intern (_July 2023 - December 2023_)**
 - Prepared and delivered weekly business review presentations, synthesizing key metrics and insights to support
 informed decision-making processes
 - Managed and optimized the CRM system to track and analyze customer interactions
